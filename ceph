@@ -1,0 +1,3 @@
+ceph_origin: 'upstream'
+ceph_stable: true
+ceph_stable_key: https://download.ceph.cim/keys/release.asc
